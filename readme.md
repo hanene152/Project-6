@@ -30,6 +30,12 @@ Here is an assignment guide to follow for setting up node: NodeJS Server Setup G
 
 NOTE: INCLUDE SCREENSHOTS IN A README SHOWING THE SUCCESS OF YOUR RESULTS!
 
+![image](https://github.com/user-attachments/assets/9a26e630-d754-4530-849f-e71f783121e9)
+
+
+![image](https://github.com/user-attachments/assets/8ccdebdc-6f12-4101-8b48-565e9e921ea4)
+
+
 
 
 
